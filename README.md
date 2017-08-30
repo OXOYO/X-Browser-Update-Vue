@@ -114,6 +114,10 @@ Vue.use(XBrowserUpdate)
 </script>
 ```
 
+## Preview
+![X-Browser-Update](https://raw.githubusercontent.com/OXOYO/X-Browser-Update-Vue/master/docs/images/img_001.png "X-Browser-Update")
+
+
 ## Links
 - [browser-update](https://github.com/browser-update/browser-update)
 - [vue](https://github.com/vuejs/vue)
