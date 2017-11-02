@@ -1,5 +1,5 @@
 # x-browser-update
-[![](https://img.shields.io/travis/x-browser-update/x-browser-update.svg?style=flat-square)](https://travis-ci.org/x-browser-update/x-browser-update)
+
 [![Version](https://img.shields.io/npm/v/x-browser-update.svg)](https://www.npmjs.com/package/x-browser-update)
 [![License](https://img.shields.io/npm/l/x-browser-update.svg)](https://www.npmjs.com/package/x-browser-update)
 [![NPM downloads](http://img.shields.io/npm/dm/x-browser-update.svg?style=flat-square)](https://npmjs.org/package/x-browser-update)
